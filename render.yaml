@@ -11,6 +11,3 @@ services:
         value: 3.10
     autoDeploy: false
     healthCheckPath: /
-    scaling:
-      minInstances: 1
-      maxInstances: 1
